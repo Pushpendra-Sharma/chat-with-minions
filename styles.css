@@ -59,6 +59,7 @@ h1 {
   font-size: large;
   margin: auto;
   overflow:scroll;
+  text-align:justify;
 }   
 
 footer {
